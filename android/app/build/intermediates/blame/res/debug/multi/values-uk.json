@@ -1,0 +1,672 @@
+[
+    {
+        "outputFile": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 109,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 109,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 107,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 107,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 122,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 122,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 101,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 101,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 105,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 105,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 85,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 85,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endColumn": 107,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 107,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 117,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 117,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 80,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 80,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 105,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1222,
+                        "endColumn": 105,
+                        "endOffset": 1323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endColumn": 106,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endColumn": 106,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1260,
+                    "endColumn": 97,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 97,
+                        "endOffset": 1528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1358,
+                    "endColumn": 107,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1533,
+                        "endColumn": 107,
+                        "endOffset": 1636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 105,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1641,
+                        "endColumn": 105,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 108,
+                    "endOffset": 1676
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1747,
+                        "endColumn": 108,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1681,
+                    "endColumn": 123,
+                    "endOffset": 1800
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 123,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1805,
+                    "endColumn": 99,
+                    "endOffset": 1900
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 99,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1905,
+                    "endColumn": 109,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 105,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endColumn": 194,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 389,
+                        "endColumn": 194,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 128,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 584,
+                        "endColumn": 124,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 111,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 709,
+                        "endColumn": 107,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 212,
+                    "endOffset": 2659
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 817,
+                        "endColumn": 212,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2664,
+                    "endColumn": 130,
+                    "endOffset": 2790
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1030,
+                        "endColumn": 126,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2795,
+                    "endColumn": 133,
+                    "endOffset": 2924
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1157,
+                        "endColumn": 129,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2929,
+                    "endColumn": 204,
+                    "endOffset": 3129
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 204,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3134,
+                    "endColumn": 226,
+                    "endOffset": 3356
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1287,
+                        "endColumn": 226,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3361,
+                    "endColumn": 107,
+                    "endOffset": 3464
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1514,
+                        "endColumn": 103,
+                        "endOffset": 1617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3469,
+                    "endColumn": 192,
+                    "endOffset": 3657
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1618,
+                        "endColumn": 192,
+                        "endOffset": 1810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3662,
+                    "endColumn": 126,
+                    "endOffset": 3784
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1811,
+                        "endColumn": 122,
+                        "endOffset": 1933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3789,
+                    "endColumn": 205,
+                    "endOffset": 3990
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1934,
+                        "endColumn": 205,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3995,
+                    "endColumn": 171,
+                    "endOffset": 4162
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2140,
+                        "endColumn": 167,
+                        "endOffset": 2307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4167,
+                    "endColumn": 99,
+                    "endOffset": 4262
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2308,
+                        "endColumn": 95,
+                        "endOffset": 2403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4267,
+                    "endColumn": 90,
+                    "endOffset": 4353
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2404,
+                        "endColumn": 86,
+                        "endOffset": 2490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4358,
+                    "endColumn": 116,
+                    "endOffset": 4470
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2491,
+                        "endColumn": 112,
+                        "endOffset": 2603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4475,
+                    "endColumn": 100,
+                    "endOffset": 4571
+                },
+                "from": {
+                    "file": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2080,
+                        "endColumn": 100,
+                        "endOffset": 2176
+                    }
+                }
+            }
+        ]
+    }
+]

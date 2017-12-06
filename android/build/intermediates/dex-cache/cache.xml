@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/shareplaces/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="faeffeccccfec22b4771bc8fa02d44e352455fb1">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/shareplaces-react-native-maps-unspecified_0a3bfb3d8a5113aaccdfab429b0c8833716cd980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_759b8bc336a13f74e8847fb0723deec573a0e73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ebd6ac9ee33c4ce304fa30f99860cadfe1f4103d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6dbfce92f82bbcb7d7b1fb8d41a8a4dfbf4d15cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_fe95a8002932505d8754172a48f1a56a3cd562e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6b110dabe86bcd26d6fcf588083ecc9242df2c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c951bb70a3f594bed1de6852f32b90a560467a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ba5b04e9e3f71a42a7dbc5df82b7b6c8deca1eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_b3a063b9edf9ed6041593c4c6e2eeb585e61ce0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_297b735ad79c6868c0f18227e68fb4475ff9cbbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_a958b81cd68f2f0fbbdf06f27cae90d3e5463f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_e183feec731d70a0c3d116d558df8489548fdbd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_911a40b79060c2d00cee1a2dc52ac778ea3e2799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_cabea8d2ee529a80736bfd4c885302ccfc9fc461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1d7d78ca64b35516b4a4777688a18a40bd6f485d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_90f86726d80c8da86911e0acbaf4d2e7b4b1a054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_767fd439ec3e5cdbcb64f8f0cfa0c3b05c39eaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_aee9e71738a04155581661898cefb1190a2c290b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_dd76e81c43fafdba72d44135f1ff85a86c48ff2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_a5bf90ecb6318ed11a0dccbf1ba15396e4116a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_cdd34f686294e7d680ac3788d28cb6a163925269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_60bd659b5bd35e62e8d7b848be8c8c26af023192.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5c34a11caad66f3fc963744c09ffc097192298a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7f8a921f764013e829cdf1debe311a75617cf926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_548409c6a0ed78cb722bc63db7584f648fec630a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_33d050d1b696d99521f5f79412455c7011ab2cc7.jar" />
+    </item>
+
+</items>
